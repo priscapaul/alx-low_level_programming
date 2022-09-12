@@ -4,18 +4,28 @@
 
 /**
 
- * main - prints the phrase "Programming is like building a multilingual puzzle
+ * Description: main - Prints out a string to stdout.
 
- * Return: 0 if exited properly, non-zero otherwise
+ * Return: 0 if success.
 
- */
+*/
+
+
 
 int main(void)
 
+
+
 {
+
+
 
 puts("\"Programming is like building a multilingual puzzle");
 
+
+
 return (0);
+
+
 
 }
