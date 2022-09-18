@@ -3,7 +3,8 @@
 /**
  * main - Prints all single digit of base 10 from 0 to stdout.
  * Return: 0 on success.
-*/ 
+*/
+
 
 int main(void)
 {
